@@ -16,7 +16,7 @@ We build fast, reliable WordPress websites designed to get results. As your frie
 
 
 _____
-🙋 Say hey on [Twitter](https://x.com/wpoets) or [Linkedin](https://www.linkedin.com/company/wpoets).<br>
+🙋 Say hello on [Twitter](https://x.com/wpoets) or [Linkedin](https://www.linkedin.com/company/wpoets).<br>
 👩‍💻 Follow us on [Instagram](https://www.instagram.com/wpoetswebexperts/) or [YouTube](https://www.youtube.com/@WPoetsWebExperts).<br>
 🌍 Visit [Website](https://www.wpoets.com/).
 
