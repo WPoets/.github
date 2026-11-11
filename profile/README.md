@@ -2,9 +2,10 @@
 	<a href="https://www.wpoets.com/" target="_blank"><img width="200"src="https://raw.githubusercontent.com/WPoets/.github/refs/heads/main/profile/WPoets-logo.svg" alt='Your Web and WordPress Experts'></a>
 </p>
 
-# WPoets — Your WordPress Experts
-## Enterprise Websites, Simplified for Marketers
+# WPoets — Your Trusted Partner for Enterprise Websites on WordPress
 
+
+## Enterprise Websites, Simplified for Marketers
 We build fast, reliable enterprise WordPress websites for marketing teams.  
 We also open-source the tools we use.
 
